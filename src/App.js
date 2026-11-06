@@ -1,8 +1,7 @@
 import React, { useState } from 'react';
 import { 
   BookOpen, Calculator, Globe, FlaskConical, Languages, 
-  CheckCircle, GraduationCap, Target, Users, ArrowRight, 
-  Mail, Phone, Star, Menu, X 
+  CheckCircle, Star, Menu, X 
 } from 'lucide-react';
 
 export default function App() {

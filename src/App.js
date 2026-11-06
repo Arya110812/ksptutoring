@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import { 
   BookOpen, Calculator, Globe, FlaskConical, Languages, 
   CheckCircle, GraduationCap, Target, Users, ArrowRight, 
@@ -406,6 +407,7 @@ export default function App() {
       </main>
 
       <Footer />
+<Analytics />
     </div>
   );
 }

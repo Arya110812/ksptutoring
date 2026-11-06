@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { 
   BookOpen, Calculator, Globe, FlaskConical, Languages, 
   CheckCircle, GraduationCap, Target, Users, ArrowRight, 
-  Mail, Phone, Clock, Award, Star, ChevronRight, Menu, X 
+  Mail, Phone, Star, Menu, X 
 } from 'lucide-react';
 
 export default function App() {
